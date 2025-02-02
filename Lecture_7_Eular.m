@@ -1,3 +1,5 @@
+%% Eular's Method Example
+
 a = 20;
 b = 2;
 c = 5;
